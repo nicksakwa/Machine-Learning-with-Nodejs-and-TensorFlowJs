@@ -1,0 +1,58 @@
+[
+    {
+      "Make": "Tesla",
+      "Model": "Model S",
+      "Horsepower": 670,
+      "Miles_per_Gallon": null,
+      "Color": "White",
+      "Electric": true
+    },
+    {
+      "Make": "BMW",
+      "Model": "M3",
+      "Horsepower": 503,
+      "Miles_per_Gallon": 23,
+      "Color": "Blue",
+      "Gasoline": true
+    },
+    {
+      "Make": "Audi",
+      "Model": "RS5",
+      "Horsepower": 444,
+      "Miles_per_Gallon": 18,
+      "Color": "Gray",
+      "Gasoline": true
+    },
+    {
+      "Make": "Rivian",
+      "Model": "R1T",
+      "Horsepower": 835,
+      "Miles_per_Gallon": null,
+      "Color": "Green",
+      "Electric": true
+    },
+      {
+      "Make": "Jeep",
+      "Model": "Wrangler",
+      "Horsepower": 285,
+      "Miles_per_Gallon": 17,
+      "Color": "Yellow",
+      "Gasoline": true
+    },
+      {
+      "Make": "Porsche",
+      "Model": "911",
+      "Horsepower": 473,
+      "Miles_per_Gallon": 20,
+      "Color": "Red",
+      "Gasoline": true
+    },
+      {
+      "Make": "Hyundai",
+      "Model": "Kona",
+      "Horsepower": 201,
+      "Miles_per_Gallon": null,
+      "Color": "Black",
+      "Electric": true
+    }
+  ]
